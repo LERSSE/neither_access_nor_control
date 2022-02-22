@@ -2,7 +2,6 @@
 The papar was presented as the 31st USENIX Securitty Symposium, 2022.
 
 # Screenshots of the Study App
-
 ## Daily Diaries
 |![Screenshot](screenshots/daily_diaries/screen1_shared_apps.png?raw=true)|![Screenshot](screenshots/daily_diaries/screen2_ready_to_go.png?raw=true)|
 |--------------------|--------------------|
@@ -43,3 +42,7 @@ The papar was presented as the 31st USENIX Securitty Symposium, 2022.
 |![Screenshot](screenshots/other_screens/main_app_screen.png?raw=true)|![Screenshot](screenshots/other_screens/study_end.png?raw=true)|
 |--------------------|--------------------|
 |Figgure P: The main app screen|Figure Q: End of study notification|
+
+
+# App Selection Flowchart
+|![Chart](screenshots/app_selection_flowchart.png?raw=true)|
