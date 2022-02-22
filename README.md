@@ -35,7 +35,7 @@ The papar was presented as the 31st USENIX Securitty Symposium, 2022.
 |Figgure M: Asking for UsageStats access|Figure N: Asking for Accessibility access|
 
 |![Screenshot](screenshots/setup_process/screen7_done.png?raw=true)|
-|--------------------|--------------------|
+|--------------------|
 |Figgure O: End of setup process|
 
 
