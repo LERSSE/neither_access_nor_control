@@ -1,2 +1,4 @@
-# neither_access_nor_control
-Supplementary material, including screenshots of the study app, for the paper titled "Neither Access Nor Control" in the proceedings of  USENIX Security Symposium 2022.
+# Neither Access nor Control: A Longitudinal Investigation of the Efficacy of User Access-Control Solutions on Smartphones (Supplementary Material)
+### In the proceedings of 21st USENIX Securitty Symposium, 2022.
+
+## Screenshots of the study app
