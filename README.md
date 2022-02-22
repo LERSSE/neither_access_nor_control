@@ -1,6 +1,9 @@
 # Neither Access nor Control: A Longitudinal Investigation of the Efficacy of User Access-Control Solutions on Smartphones (Supplementary Material)
 The papar was presented as the 31st USENIX Securitty Symposium, 2022.
 
+# Screening survey questions
+They are hosted on Qualtrics, <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3NOxVjlSYvnJabs">here</a>.
+
 # Screenshots of the Study App
 ## Daily Diaries
 |![Screenshot](screenshots/daily_diaries/screen1_shared_apps.png?raw=true)|![Screenshot](screenshots/daily_diaries/screen2_ready_to_go.png?raw=true)|
