@@ -45,4 +45,4 @@ The papar was presented as the 31st USENIX Securitty Symposium, 2022.
 
 
 # App Selection Flowchart
-|![Chart](screenshots/app_selection_flowchart.png?raw=true)|
+|![Chart](screenshots/app_selection_flowchart.jpg?raw=true)|
