@@ -1,11 +1,11 @@
-# Neither Access nor Control: A Longitudinal Investigation of the Efficacy of User Access-Control Solutions on Smartphones (Supplementary Material)
+## Neither Access nor Control: A Longitudinal Investigation of the Efficacy of User Access-Control Solutions on Smartphones (Supplementary Material)
 The papar was presented as the 31st USENIX Securitty Symposium, 2022.
 
-# Screening survey questions
+## Screening survey questions
 They are hosted on Qualtrics, <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3NOxVjlSYvnJabs">here</a>.
 
-# Screenshots of the Study App
-## Daily Diaries
+## Screenshots of the Study App
+### Daily Diaries
 |![Screenshot](screenshots/daily_diaries/screen1_shared_apps.png?raw=true)|![Screenshot](screenshots/daily_diaries/screen2_ready_to_go.png?raw=true)|
 |--------------------|--------------------|
 |Figure A: Asking the participant about apps (if any) they shared.|Figure B: Indicating the start of diary questions about one of the selected apps.|
@@ -23,7 +23,7 @@ They are hosted on Qualtrics, <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV
 |Figure G: Asking about sharing preferences for each task.|Figure H: End of daily diary.|
 
 
-## Setup Process
+### Setup Process
 |![Screenshot](screenshots/setup_process/screen1_participant_id.png?raw=true)|![Screenshot](screenshots/setup_process/screen2_consent.png?raw=true)|
 |--------------------|--------------------|
 |Figure I: Verifying participant's assigned ID|Figure J: Consent form|
@@ -41,11 +41,11 @@ They are hosted on Qualtrics, <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV
 |Figure O: End of setup process|
 
 
-## Other Screens
+### Other Screens
 |![Screenshot](screenshots/other_screens/main_app_screen.png?raw=true)|![Screenshot](screenshots/other_screens/study_end.png?raw=true)|
 |--------------------|--------------------|
 |Figgure P: The main app screen|Figure Q: End of study notification|
 
 
-# App Selection Flowchart
+## App Selection Algorithm Flowchart
 |![Chart](screenshots/app_selection_flowchart.jpg?raw=true)|
