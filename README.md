@@ -2,9 +2,11 @@
 The papar was presented as the 31st USENIX Securitty Symposium, 2022.
 
 ## Screening survey questions
-They are hosted on Qualtrics, <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3NOxVjlSYvnJabs">here</a>.
+They are hosted on <a href="https://ubc.ca1.qualtrics.com/jfe/form/SV_3NOxVjlSYvnJabs">Qualtrics</a>.
 
 ## Screenshots of the Study App
+The app itself is still avaiable on <a href="https://play.google.com/store/apps/details?id=ca.ubc.ece.lersse.phonesharingstudy">Google play store</a>.
+
 ### Daily Diaries
 |![Screenshot](screenshots/daily_diaries/screen1_shared_apps.png?raw=true)|![Screenshot](screenshots/daily_diaries/screen2_ready_to_go.png?raw=true)|
 |--------------------|--------------------|
